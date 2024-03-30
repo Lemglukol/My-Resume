@@ -1,2 +1,2 @@
 # My-Resume
-# My simple resume page using html
+My simple resume page using html
